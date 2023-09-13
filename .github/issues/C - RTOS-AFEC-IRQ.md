@@ -1,6 +1,6 @@
 > Issue:
 >
-> - Você só deve fechar as issues do que foi concluido.
+> - Você só deve fechar as issues que foram 100% concluidas.
 > - Se não concluiu 100% a issues, você pode fazer um comentário que ireimos analisar!
 
 | Projeto         |
