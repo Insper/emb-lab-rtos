@@ -1,3 +1,8 @@
+> Issue:
+>
+> - Você só deve fechar as issues do que foi concluido.
+> - Se não concluiu 100% a issues, você pode fazer um comentário que ireimos analisar!
+
 | Projeto |
 | ------| 
 | `RTOS-PIO-IRQ`|       

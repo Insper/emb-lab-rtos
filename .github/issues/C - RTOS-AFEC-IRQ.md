@@ -1,6 +1,11 @@
-| Projeto |
-| ------| 
-| `RTOS-AFEC-IRQ`|    
+> Issue:
+>
+> - Você só deve fechar as issues do que foi concluido.
+> - Se não concluiu 100% a issues, você pode fazer um comentário que ireimos analisar!
+
+| Projeto         |
+|-----------------|
+| `RTOS-AFEC-IRQ` |
 
 A ideia agora é criarmos uma task intermediária (`task_proc`) que irá fazer o processamento dos dados recebidos pelo ADC. 
 

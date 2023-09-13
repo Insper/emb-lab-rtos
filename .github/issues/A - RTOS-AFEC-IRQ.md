@@ -1,3 +1,8 @@
+> Issue:
+>
+> - Você só deve fechar as issues do que foi concluido.
+> - Se não concluiu 100% a issues, você pode fazer um comentário que ireimos analisar!
+
 | Projeto |
 | ------| 
 | `RTOS-AFEC-IRQ`|       
@@ -17,3 +22,5 @@ Tarefa:
 Qualidade de Código:
 
 - Lembre de verificar se os testes de qualidade de código estão passando.
+
+
