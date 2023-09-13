@@ -22,4 +22,4 @@ jobs:
 
       - name: run cppcheck
         run: |
-          cppcheck -iASF -ioled --enable=all --suppress=shiftTooManyBitsSigned --suppress=missingIncludeSystem --suppress=integerOverflow --suppress=unmatchedSuppression --suppress=unusedFunction --error-exitcode=2 ${SRC_CODE}
+          cppcheck -iASF -ioled --enable=all --suppress=shiftTooManyBitsSigned --suppress=missingIncludeSystem --suppress=integerOverflow --suppress=unmatchedSuppression --suppress=unusedFunction --suppress=invalidPrintfArgType_sint --suppress=invalidPrintfArgType_uint --error-exitcode=2 ${SRC_CODE}

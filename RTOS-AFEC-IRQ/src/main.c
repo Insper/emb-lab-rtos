@@ -125,7 +125,7 @@ static void task_adc(void *pvParameters) {
 
   while (1) {
     if (xQueueReceive(xQueueADC, &(adc), 1000)) {
-      printf("ADC: %d \n", adc);
+      printf("ADC: %d \n", adc.value);
     } else {
       printf("Nao chegou um novo dado em 1 segundo");
     }
